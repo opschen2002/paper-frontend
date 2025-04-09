@@ -1,0 +1,15 @@
+com\opschen\paperbackend\PaperBackendApplication.class
+com\opschen\paperbackend\repository\StudentTestMappingRepository.class
+com\opschen\paperbackend\service\CustomUserDetailsService.class
+com\opschen\paperbackend\repository\StudentRepository.class
+com\opschen\paperbackend\controller\LoginController.class
+com\opschen\paperbackend\entity\TestScore.class
+com\opschen\paperbackend\controller\TestController.class
+com\opschen\paperbackend\entity\User.class
+com\opschen\paperbackend\entity\StudentTestMapping.class
+com\opschen\paperbackend\controller\LoginController$LoginRequest.class
+com\opschen\paperbackend\controller\LoginController$LoginResponse.class
+com\opschen\paperbackend\repository\TestScoreRepository.class
+com\opschen\paperbackend\config\SecurityConfig.class
+com\opschen\paperbackend\entity\Student.class
+com\opschen\paperbackend\repository\UserRepository.class

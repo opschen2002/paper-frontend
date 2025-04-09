@@ -1,0 +1,13 @@
+C:\Users\陈章宇\Desktop\毕业论文\源码\v2-增加登录功能\backend\v2\src\main\java\com\opschen\paperbackend\config\SecurityConfig.java
+C:\Users\陈章宇\Desktop\毕业论文\源码\v2-增加登录功能\backend\v2\src\main\java\com\opschen\paperbackend\controller\LoginController.java
+C:\Users\陈章宇\Desktop\毕业论文\源码\v2-增加登录功能\backend\v2\src\main\java\com\opschen\paperbackend\controller\TestController.java
+C:\Users\陈章宇\Desktop\毕业论文\源码\v2-增加登录功能\backend\v2\src\main\java\com\opschen\paperbackend\entity\Student.java
+C:\Users\陈章宇\Desktop\毕业论文\源码\v2-增加登录功能\backend\v2\src\main\java\com\opschen\paperbackend\entity\StudentTestMapping.java
+C:\Users\陈章宇\Desktop\毕业论文\源码\v2-增加登录功能\backend\v2\src\main\java\com\opschen\paperbackend\entity\TestScore.java
+C:\Users\陈章宇\Desktop\毕业论文\源码\v2-增加登录功能\backend\v2\src\main\java\com\opschen\paperbackend\entity\User.java
+C:\Users\陈章宇\Desktop\毕业论文\源码\v2-增加登录功能\backend\v2\src\main\java\com\opschen\paperbackend\PaperBackendApplication.java
+C:\Users\陈章宇\Desktop\毕业论文\源码\v2-增加登录功能\backend\v2\src\main\java\com\opschen\paperbackend\repository\StudentRepository.java
+C:\Users\陈章宇\Desktop\毕业论文\源码\v2-增加登录功能\backend\v2\src\main\java\com\opschen\paperbackend\repository\StudentTestMappingRepository.java
+C:\Users\陈章宇\Desktop\毕业论文\源码\v2-增加登录功能\backend\v2\src\main\java\com\opschen\paperbackend\repository\TestScoreRepository.java
+C:\Users\陈章宇\Desktop\毕业论文\源码\v2-增加登录功能\backend\v2\src\main\java\com\opschen\paperbackend\repository\UserRepository.java
+C:\Users\陈章宇\Desktop\毕业论文\源码\v2-增加登录功能\backend\v2\src\main\java\com\opschen\paperbackend\service\CustomUserDetailsService.java
