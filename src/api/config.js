@@ -1,7 +1,7 @@
-export const API_BASE_URL = 'http://192.168.203.240:8080'
+export const API_BASE_URL = 'http://192.168.203.240:8080/api'  // 添加 /api
 export const API_URLS = {
   // 认证相关
-  LOGIN: '/api/auth/login',
+  LOGIN: '/auth/login',  // 去掉重复的 /api
   
   // 管理员相关
   IMPORT_SCORE: '/admin/score/import',
