@@ -10,6 +10,11 @@ export const studentApi = {
     return request({
       url: `${API_URLS.GET_STUDENT_INFO}/${studentId}`,
       method: 'get'
+    }).then(response => {
+      if (response.code === 200 && response.data) {
+        return response.data
+      }
+      throw new Error(response.message || '获取学生信息失败')
     })
   },
 
@@ -21,6 +26,11 @@ export const studentApi = {
     return request({
       url: `${API_URLS.GET_PERSONAL_SCORE}/${studentId}`,
       method: 'get'
+    }).then(response => {
+      if (response.code === 200 && response.data) {
+        return response.data
+      }
+      throw new Error(response.message || '获取成绩失败')
     })
   }
 }
